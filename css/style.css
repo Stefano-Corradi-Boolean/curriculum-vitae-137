@@ -1,0 +1,32 @@
+body{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header{
+  text-align: center;
+  background-color: #ECEDED;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #C67C01;
+}
+
+header .avatar{
+  width: 150px;
+}
+
+section h2{
+  color: #C67C01;
+}
+
+section h3{
+  font-style: italic;
+}
+
+footer{
+  border-top: 2px solid #C67C01;
+}
+
+footer p{
+  text-align: center;
+  font-style: italic;
+  font-size: .9rem;
+}
